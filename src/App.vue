@@ -1,13 +1,10 @@
 <script setup>
-import Principal from './components/Principal.vue'
+import Eventos from './components/Eventos/Eventos.vue'
 </script>
 
 <template>
-  <div>
-  </div>
-  <Principal msg="Vite + Vue" />
+    <Eventos/>
 </template>
 
 <style scoped>
-
 </style>
