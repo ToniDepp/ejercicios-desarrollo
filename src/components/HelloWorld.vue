@@ -1,8 +1,13 @@
 <script setup>
-import Hora from './components/Horario.vue'
+import { ref } from 'vue';
+
 </script>
+
 <template>
-  <Hora/>
 </template>
+
 <style scoped>
+
 </style>
+
+
