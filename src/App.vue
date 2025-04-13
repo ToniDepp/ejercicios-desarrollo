@@ -1,13 +1,10 @@
 <script setup>
-import Principal from './components/Principal.vue'
+import Padre from './components/Props/Padre.vue'
 </script>
 
 <template>
-  <div>
-  </div>
-  <Principal msg="Vite + Vue" />
+<!--<Principal nombrecito="Eduardo Tomas" />-->
+<Padre/>
 </template>
-
 <style scoped>
-
 </style>
